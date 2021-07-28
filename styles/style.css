@@ -1,0 +1,9 @@
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.header-bg{
+    background-color:#264653;
+}
+.grayscale img{
+    filter: grayscale(1);
+}
