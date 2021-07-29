@@ -7,3 +7,7 @@ body{
 .grayscale img{
     filter: grayscale(1);
 }
+.spacing{
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
